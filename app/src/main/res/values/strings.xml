@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LastProject</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="Cancle">Cancle</string>
+    <string name="staff">Staff</string>
+    <string name="student">Student</string>
+    <string name="type">Type</string>
+    <string name="find">Find</string>
+    <string name="sortbyage">Sort by Age</string>
+    <string name="sortbyname">Sort by Name</string>
+    <string name="title">Delete Person</string>
+    <string name="message">Are you sure you want to delete this item ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="searchbtn">Search</string>
+    <string name="searchhint">Enter Name Or ID</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

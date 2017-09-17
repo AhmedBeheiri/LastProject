@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sortage"
+        android:title="@string/sortbyage" />
+    <item
+        android:id="@+id/sortname"
+        android:title="@string/sortbyname" />
+    <item
+        android:id="@+id/find"
+        android:title="@string/find" />
+</menu>
