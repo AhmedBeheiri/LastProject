@@ -1,5 +1,5 @@
 # LastProject
-Project shows how to use some essintial featuers in android development
+Project shows how to use some essential featuers in android development
 
 the project include the following feature
 -Listview
